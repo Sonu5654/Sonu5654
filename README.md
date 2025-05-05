@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sonu Yadav</h1>
-<h3 align="center">A passionate PHP Software Developer | Backend Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Sonu</h1>
+<h3 align="center">A passionate PHP Full Stack Developer and AI Enthusiast from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C5FF&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;AI+Explorer+%7C+ML+Beginner;Open+Source+Lover+%F0%9F%92%9A;Always+Learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 
 ## 🧑‍💻 About Me
