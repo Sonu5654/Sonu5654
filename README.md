@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **scalable web applications and API integrations**
-- 🌱 I’m learning advanced **Laravel, Docker, and Microservices architecture**
+- 🌱 I’m learning advanced ** PHP, Laravel, Wordpress ,**
 - 🧠 I have deep experience in **PHP, MySQL, REST APIs, and secure backend logic**
 - 💬 Ask me about **PHP, Laravel, MySQL, APIs, Git**
 - 📫 Reach me at: **[Sonucode.net@gmail.com]**
